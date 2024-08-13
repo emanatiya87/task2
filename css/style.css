@@ -1,0 +1,12 @@
+.col-md-3 div p{
+    color: gray;
+    
+}
+.col-md-3 i{
+    color: pink;
+    font-size: 40px;
+}
+.col-md-3{
+    border: .3px solid gray;
+    padding: 20px;
+}
